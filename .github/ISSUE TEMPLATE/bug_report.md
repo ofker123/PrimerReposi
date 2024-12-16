@@ -20,6 +20,7 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 2. Hacer clic en '...'
 3. Describir cualquier otra acción hasta que ocurra el problema.
 4. Error que aparece: '...'
+5. Otras observaciones: '...'
 
 ### Comportamiento esperado
 
